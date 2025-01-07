@@ -1,8 +1,8 @@
 # DocxWriterPy: A Python Tool for DOCX Mail Merge and Manipulation
 **DocxWriterPy** is a Python-based utility designed to simplify working with Microsoft Word (DOCX) documents. This tool is particularly useful for organizations that restrict the use of external libraries, as it provides a self-contained solution for automating document processing without needing to install the `python-docx` package online. By implementing mail merging capabilities, DocxWriter enables users to efficiently manage data processing tasks, enhancing productivity and reducing manual errors.
 
-# Why DocxWriter?
-The development of **DocxWriterPy** stems from the constraints imposed by my company, which does not permit the use of online installations for the python-docx package. This limitation necessitated the creation of a robust alternative that can effectively implement mail merging with DOCX files, thereby automating data processing tasks.
+# Why DocxWriterPy?
+The development of **DocxWriterPy** stems from the constraints imposed by my company, which does not permit the use of online installations for the python-docx package. This limitation necessitated the creation of a robust alternative that can effectively implement mail merging with DOCX files, thereby automating data processing tasks. You can also integrate data extraction, document generation, and email sending into one cohesive program by using `DocxWriterPy`.
 
 # Features
 * **Mail Merge**: Automate document creation by replacing placeholders with dynamic data.
