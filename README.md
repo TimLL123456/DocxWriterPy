@@ -19,7 +19,7 @@ git clone https://github.com/your-username/docxwriter.git
 cd docxwriter
 ```
 
-2. Install required dependencies:
+2. Install required dependencies: (Optional)
 ``` bash
 pip install lxml pywin32
 ```
